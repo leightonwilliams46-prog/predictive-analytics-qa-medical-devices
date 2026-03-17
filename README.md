@@ -54,3 +54,38 @@ These files include the full academic narrative, diagrams, and reference list.
 
 
 ## 📁 Repository Structure
+
+predictive-analytics-qa-medical-devices/
+│
+├── paper/
+│   ├── literature_review.pdf
+│   └── Module 2 Assignment 1 - Final.docx
+│
+└── README.md
+
+---
+
+## 🧭 Why I Added This Repository to My Portfolio
+
+As a Global Quality & Accreditation professional working within MDR‑aligned frameworks, this review marks an important step in expanding my capability in data‑driven quality assurance.
+
+It demonstrates:
+
+- My understanding of predictive analytics and ML concepts  
+- Awareness of data governance and ethical requirements  
+- Familiarity with big‑data challenges in regulated healthcare  
+- The ability to evaluate technology through a regulatory, QA‑focused lens  
+
+This repository complements my technical projects and supports my long‑term development in regulated analytics, digital quality systems, and Quality 4.0.
+
+---
+
+## 🔗 Related Work by Me
+
+- **python-stock-analysis** — End‑to‑end Pandas + scikit‑learn analysis of multi‑ticker stock‑market data.  
+- **nosql-data-analysis-tutorials** — MongoDB CMS modelling + Neo4j fraud‑detection graph analytics. [2](https://www.infosys.com/it-services/validation-solutions/service-offerings/documents/infosys-predictive-analytics.pdf)  
+- **faulty-medical-devices-analysis** — Python workflow analysing faulty medical‑device event data. [3](https://www.datacreds.com/post/how-to-leverage-big-data-in-medical-device-safety-databases)
+
+---
+
+*Thank you for viewing this repository. Feedback, suggestions, or collaboration ideas are always welcome.*
