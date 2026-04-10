@@ -8,10 +8,11 @@ This project presents a literature‑based evaluation of how predictive analytic
 
 ## 📁 Quick Access
 
-- 📄 **Full Literature Review (PDF):** [paper/Literature_Review.pdf](paper/Literature_Review.pdf)
-- 📄 **Alternative PDF Version:** [paper/literature_review.pdf](paper/literature_review.pdf)
-- 📄 **Supporting Document:** *Module 2 Assignment 1 – Final*  
-  [paper/Module 2 Assignment 1 - Final.docx](paper/Module%202%20Assignment%201%20-%20Final.docx)
+- 📄 **Literature Review (Main PDF):**  
+  [paper/Literature_Review.pdf.pdf](paper/Literature_Review.pdf.pdf)
+
+- 📄 **Supporting Document – Module 2 Assignment 1 (Word):**  
+  [paper/Module%202%20Assignment%201%20-%20Final.docx](paper/Module%202%20Assignment%201%20-%20Final.docx)
 
 These files contain the complete written analysis, reference lists, and supporting academic work.
 
