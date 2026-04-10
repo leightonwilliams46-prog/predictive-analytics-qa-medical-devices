@@ -7,9 +7,13 @@ This project presents a literature‑based evaluation of how predictive analytic
 ---
 
 ## 📁 Quick Access
-📄 **Full Literature Review (PDF):** *(Add link here once uploaded)*  
-📓 **Notebook (Optional):** *(Add link once a notebook is added)*  
-📊 **Figures & Diagrams:** *(Add links to diagram folder if created)*  
+
+- 📄 **Full Literature Review (PDF):** [paper/Literature_Review.pdf](paper/Literature_Review.pdf)
+- 📄 **Alternative PDF Version:** [paper/literature_review.pdf](paper/literature_review.pdf)
+- 📄 **Supporting Document:** *Module 2 Assignment 1 – Final*  
+  [paper/Module 2 Assignment 1 - Final.docx](paper/Module%202%20Assignment%201%20-%20Final.docx)
+
+These files contain the complete written analysis, reference lists, and supporting academic work.
 
 ---
 
@@ -57,10 +61,6 @@ Predictive QA systems rely heavily on high‑quality data. The review discusses 
 - Incorrect fault predictions  
 - Non‑compliance with regulatory expectations
 
-<p align="center">
-  <img src="figures/data_quality_framework.png" width="550">
-</p>
-
 ---
 
 ### **4. Ethical, Legal & Professional Responsibilities**
@@ -71,10 +71,6 @@ The review highlights obligations around GDPR, privacy, consent, algorithmic bia
 - Transparent model decision‑making  
 - Monitoring for model drift  
 - Documentation for auditors and regulators  
-
-<p align="center">
-  <img src="figures/ethics_model.png" width="600">
-</p>
 
 ---
 
@@ -104,32 +100,6 @@ When uploaded, link it here:
 📓 Notebook: notebooks/predictive_qa_demo.ipynb
 
 ---
-
-## 📊 Illustrative Diagrams 
-
-### **Predictive Analytics Workflow for Medical Devices**
-
-```html
-<p align="center">
-  <img src="figures/predictive_workflow.png" width="650">
-</p>
-
----
-
-## 📄 Full Paper
-
-The complete literature review is available here:
-
-**📘 PDF version (recommended for browser viewing):**  
-`paper/literature_review.pdf`
-
-**📝 DOCX version (original submission):**  
-`paper/Module 2 Assignment 1 - Final.docx`
-
-These files include the full academic narrative, diagrams, and reference list.
-
----
-
 
 ## 📁 Repository Structure
 
@@ -176,8 +146,8 @@ This literature review demonstrates how predictive analytics and machine learnin
 ## 🔗 Related Work by Me
 
 - **python-stock-analysis** — End‑to‑end Pandas + scikit‑learn analysis of multi‑ticker stock‑market data.  
-- **nosql-data-analysis-tutorials** — MongoDB CMS modelling + Neo4j fraud‑detection graph analytics. [2](https://www.infosys.com/it-services/validation-solutions/service-offerings/documents/infosys-predictive-analytics.pdf)  
-- **faulty-medical-devices-analysis** — Python workflow analysing faulty medical‑device event data. [3](https://www.datacreds.com/post/how-to-leverage-big-data-in-medical-device-safety-databases)
+- **nosql-data-analysis-tutorials** — MongoDB CMS modelling + Neo4j fraud‑detection graph analytics. 
+- **faulty-medical-devices-analysis** — Python workflow analysing faulty medical‑device event data. 
 
 ---
 
