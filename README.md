@@ -2,7 +2,7 @@
 # Predictive Analytics for Quality Assurance in Medical Devices
 
 ## 📌 Executive Summary
-This project presents a literature‑based evaluation of how predictive analytics, machine‑learning techniques, and data‑quality frameworks can strengthen Quality Assurance (QA) practices within the medical device sector. It forms part of my postgraduate study and focuses on the opportunities, limitations and regulatory considerations involved in bringing advanced analytical methods into a highly regulated environment where patient safety and data integrity are essential.[1]
+This project presents a literature‑based evaluation of how predictive analytics, machine‑learning techniques, and data‑quality frameworks can strengthen Quality Assurance (QA) practices within the medical device sector. It forms part of my postgraduate study and focuses on the opportunities, limitations and regulatory considerations involved in bringing advanced analytical methods into a highly regulated environment where patient safety and data integrity are essential.
 
 ---
 
