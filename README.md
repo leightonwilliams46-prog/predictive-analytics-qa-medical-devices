@@ -104,6 +104,8 @@ When uploaded, link it here:
 
 ## 📁 Repository Structure
 
+``
+text
 predictive-analytics-qa-medical-devices/
 │
 ├── paper/
@@ -111,6 +113,7 @@ predictive-analytics-qa-medical-devices/
 │   └── Module 2 Assignment 1 - Final.docx
 │
 └── README.md
+``
 
 ---
 
